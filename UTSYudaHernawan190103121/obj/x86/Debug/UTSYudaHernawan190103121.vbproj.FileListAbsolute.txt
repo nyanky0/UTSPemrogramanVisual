@@ -1,0 +1,38 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.FormLogin.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Kasir.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.pdb
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.exe
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.xml
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.pdb
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.exe
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.pdb
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.xml
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.FormLogin.resources
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Kasir.resources
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Resources.resources
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.vbproj.GenerateResource.Cache
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.exe.manifest
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.application
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.exe.manifest
+D:\z KERJAAN\Pemprograman Visual\UTS\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.application
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.exe
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.xml
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.pdb
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.exe.manifest
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.application
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.exe
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.pdb
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\bin\Debug\UTSYudaHernawan190103121.xml
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.FormLogin.resources
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Kasir.resources
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.Resources.resources
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.vbproj.GenerateResource.Cache
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.exe.manifest
+E:\zKERJAAN\!PROJEK\File Projek - Kasir Warung Makan\Kasir Warung Makan\UTSYudaHernawan190103121\UTSYudaHernawan190103121\obj\x86\Debug\UTSYudaHernawan190103121.application
